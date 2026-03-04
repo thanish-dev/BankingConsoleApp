@@ -1,4 +1,4 @@
-# 🏦 Banking Console System
+# 🏦 Banking Console Apllication
 
 A Java-based console banking application that simulates basic banking operations using Object-Oriented Programming (OOP) principles.
 
