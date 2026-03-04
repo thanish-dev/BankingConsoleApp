@@ -42,23 +42,6 @@ Enter choice:
 - Exit system safely
 - Structured using layered package architecture
 
----
-
-## 📂 Project Structure
-
-```
-BankingConsoleApp
-│
-└── src
-    └── com
-        └── banking
-            ├── app
-            │   └── Main.java
-            ├── model
-            │   └── Account.java
-            └── service
-                └── Bank.java
-```
 
 ---
 
@@ -96,7 +79,7 @@ java com.banking.app.Main
 ## 📸 Screenshots
 
 ### 🖥 Main Menu
-![Main Menu](assets/output.png)
+![Main Menu](assets/mainmenu.png)
 
 ---
 
