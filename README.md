@@ -1,10 +1,10 @@
-# 🏦 Banking Console Application
+#  Banking Console Application
 
 A Java-based console banking application that simulates basic banking operations using Object-Oriented Programming (OOP) principles.
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 The Banking Console System is a menu-driven Java application that allows users to perform essential banking operations through the terminal.
 
@@ -19,7 +19,7 @@ This project demonstrates strong understanding of:
 
 ---
 
-## 🖥 Application Menu
+##  Application Menu
 
 ```
 ===== Banking System =====
@@ -33,7 +33,7 @@ Enter choice:
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Create a new bank account
 - Deposit money into an account
@@ -45,7 +45,7 @@ Enter choice:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Java
 - OOP Concepts
@@ -54,7 +54,7 @@ Enter choice:
 
 ---
 
-## ▶️ How To Run
+##  How To Run
 
 1️⃣ Navigate to the `src` folder:
 
