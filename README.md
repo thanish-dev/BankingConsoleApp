@@ -96,6 +96,3 @@ This project helped in understanding:
 
 ---
 
-## 👨‍💻 Author
-
-**Thanish**
